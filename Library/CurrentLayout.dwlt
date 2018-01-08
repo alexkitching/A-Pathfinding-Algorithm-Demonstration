@@ -192,7 +192,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 471}
   m_MaxSize: {x: 22012, y: 14021}
   vertical: 0
-  controlID: 73
+  controlID: 164
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -332,7 +332,7 @@ MonoBehaviour:
   m_MinSize: {x: 640, y: 471}
   m_MaxSize: {x: 18010, y: 14021}
   vertical: 0
-  controlID: 74
+  controlID: 130
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -500,7 +500,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Materials
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -656,7 +656,7 @@ MonoBehaviour:
     height: 381
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 58060000
+    m_SelectedIDs: 30250000
     m_LastClickedID: 0
     m_ExpandedIDs: e2fbffff00000000
     m_RenameOverlay:
@@ -713,9 +713,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.11893988, y: -1.0304382, z: 7.957011}
+    m_Target: {x: 11.393659, y: 12.385453, z: 12.151596}
     speed: 2
-    m_Value: {x: 0.11893988, y: -1.0304382, z: 7.957011}
+    m_Value: {x: 11.393659, y: 12.385453, z: 12.151596}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -738,13 +738,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.14910388, y: 0.091515146, z: -0.013859837, w: -0.98448}
+    m_Target: {x: -0.117003426, y: 0.75397533, z: -0.13978167, w: -0.6311042}
     speed: 2
-    m_Value: {x: -0.14910388, y: 0.091515146, z: -0.013859837, w: -0.98448}
+    m_Value: {x: -0.117003426, y: 0.75397533, z: -0.13978167, w: -0.6311042}
   m_Size:
-    m_Target: 14.989336
+    m_Target: 35.930824
     speed: 2
-    m_Value: 14.989336
+    m_Value: 35.930824
   m_Ortho:
     m_Target: 0
     speed: 2
